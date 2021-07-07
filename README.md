@@ -2,10 +2,10 @@
 -Esudiante de ITI y freelance.
 
 ---⚠️ LICENSE ---
---Free for non profit use only
--If you don't know how to credit me, just credit me this way:
+Free for non profit use only
+If you don't know how to credit me, just credit me this way:
  (Prod. By Ivan Cucou)
--All Rights Reserved © - Ivan Cucou
+All Rights Reserved © - Ivan Cucou
 
 ---💬 Social Media---
 - twitter: @_cucou
