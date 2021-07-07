@@ -1,5 +1,6 @@
 -ʕ•́ᴥ•̀ʔっ Hi, I’m @cucous
 -Esudiante de ITI y freelance.
+
 ---⚠️ LICENSE ---
 --Free for non profit use only
 -If you don't know how to credit me, just credit me this way:
